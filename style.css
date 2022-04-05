@@ -17,7 +17,8 @@ border-bottom: 2px solid black;
 hr{
     width: 10%;
     border: 8px solid black;
-    text-align: left;
+    margin: 0;
+    margin-bottom: 15px;
 
 }
 input{
@@ -34,5 +35,5 @@ gap: 10px;
 
 }
 .short{
-    max-width: 40px;
+    max-width: 50px;
 }
