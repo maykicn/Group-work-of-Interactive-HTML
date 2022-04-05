@@ -15,10 +15,11 @@ border-bottom: 2px solid black;
     border: none;
 }
 hr{
-    width: 10%;
-    border: 8px solid black;
-    margin: 0;
+    width: 30%;
+    border: 4px solid black;
+    margin-left: 2%;
     margin-bottom: 15px;
+   
 
 }
 input{
@@ -36,4 +37,13 @@ gap: 10px;
 }
 .short{
     max-width: 50px;
+}
+body{
+    background-color: beige;
+}
+form{
+    margin: 5% 40% 5% 2%;
+    background-color: white;
+    padding-top: 5px;
+
 }
