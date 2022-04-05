@@ -2,4 +2,37 @@ label{
     display: inline-block;
     width: 150px;
 }
+fieldset{
+border: none;
+border-bottom: 2px solid black;
+}
 
+.header legend{
+    font-weight: bold;
+    font-size:150%;
+}
+.adress{
+    border: none;
+}
+hr{
+    width: 10%;
+    border: 8px solid black;
+    text-align: left;
+
+}
+input{
+    border:none;
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+legend{
+    margin-bottom: 15px;
+}
+.two{
+display:inline-flex;
+gap: 10px;
+
+}
+.short{
+    max-width: 40px;
+}
